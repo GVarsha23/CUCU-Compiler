@@ -1,3 +1,4 @@
+/*correct code*/
 char * x; /*variable*/
 int my_func(int i);
 int main (){
